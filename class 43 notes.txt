@@ -1,0 +1,20 @@
+Charecter-
+playing charecters=Pac man
+nonplaying chaerecter=Ghost
+Goal= Collect all the dots
+rules=
+To collect all of the dots,dodge all og the ghost,Power pallets make ghost edible.
+Pac man has 2 lives
+Ghost can eat pac man
+5 power pallets kept in the maze
+when the pac man wats them ghost turn pale 
+And pac man can wat the ghost
+Ghost can reborn after they are eaten
+When the pac man eats all the dots pac man wins
+When the pac man losses both of his lives pac man losses 
+
+Balance- Ghost can eat pac man and pac man can eat the ghost 
+Adaption- The more pallets you eat make the game harder for the player
+Chance-When the pac man gets eaten he has another life
+Skill- Dodge all the ghost while eatung all the dots
+Fedback-Score
